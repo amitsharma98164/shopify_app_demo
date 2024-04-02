@@ -1,1 +1,24 @@
 # shopify_app_demo
+
+
+Client ID: 24b17a22c9d0dcab08494a168c905c9b
+Client secret: b074f34c781a5aee5596de2a603d5066
+
+
+Token: shpua_e6861b4dd77a476c31c1510a7b3a9978
+
+Shopify service account address: delivery@shopify-pubsub-webhooks.iam.gserviceaccount.com
+
+Install link: https://admin.shopify.com/oauth/install_custom_app?client_id=009c248ce64b0b0238d8beba49a6cc24&signature=eyJfcmFpbHMiOnsibWVzc2FnZSI6ImV5SmxlSEJwY21WelgyRjBJam94TnpBMk1qUTFPVFkwTENKd1pYSnRZVzVsYm5SZlpHOXRZV2x1SWpvaVlYUnZlbmRsWW5SbFkyZ3ViWGx6YUc5d2FXWjVMbU52YlNJc0ltTnNhV1Z1ZEY5cFpDSTZJakF3T1dNeU5EaGpaVFkwWWpCaU1ESXpPR1E0WW1WaVlUUTVZVFpqWXpJMElpd2ljSFZ5Y0c5elpTSTZJbU4xYzNSdmJWOWhjSEFpTENKdFpYSmphR0Z1ZEY5dmNtZGhibWw2WVhScGIyNWZhV1FpT2pFd016ZzFOVEk0TVgwPSIsImV4cCI6IjIwMjQtMDItMDJUMDU6MTI6NDQuNTc1WiIsInB1ciI6bnVsbH19--4771ea8a0ed05b317884324818644b1b213de360
+
+
+github.com/nyalex/shopify-generating-api-token-guide
+
+https://localhost/shopify_app_contact_form/install.php?shop=atozwebtech
+
+Consumer key : ck_1b8dac952f5fd06c1dad13a70460f0dccd838344
+Consumer secret : cs_b0a51cb6b59d7207b1eff518b34b72939407c6da
+
+
+App URL: https://localhost/shopify_app_contact_form/ Allowed Redirections:  https://localhost/shopify_app_contact_form/generate_token.php
+https://localhost/shopify_app_contact_form/install.php
